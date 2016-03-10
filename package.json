@@ -4,7 +4,8 @@
   "description": "Convert any kind of object into a disposable",
   "main": "lib/index.js",
   "scripts": {
-    "test": "apm test"
+    "test": "apm test",
+    "compile": "ucompiler go"
   },
   "repository": {
     "type": "git",
