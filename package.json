@@ -1,6 +1,6 @@
 {
   "name": "disposify",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Convert any kind of object into a disposable",
   "main": "lib/index.js",
   "scripts": {
