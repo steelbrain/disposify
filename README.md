@@ -1,6 +1,8 @@
 Disposify
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/disposify.svg)](https://greenkeeper.io/)
+
 Disposify is the module you'll need to make all sorts of objects disposable. After making them disposable, they'll fit anywhere in the [`EventKit Architecture`](https://github.com/steelbrain/event-kit#event-kit)
 
 ## Installation
